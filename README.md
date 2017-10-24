@@ -18,7 +18,7 @@
 
 #### Setup steps
 * Download the latest version of this script
-  * https://source.datanerd.us/FIT/insights-mailer/archive/master.zip
+  * https://github.com/mcough2/insights-mailer.git
 * Open terminal window
 * Unzip insights mailer ZIP and change name to NewRelicInsightsMailer
   * `unzip insights-mailer-master.zip`
