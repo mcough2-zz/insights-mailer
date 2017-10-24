@@ -1,0 +1,20 @@
+{
+  "name": "insights-mailer",
+  "version": "1.0.0",
+  "description": "Script to send out New Relic Insights dashboards as PDFs in emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.datanerd.us/FIT/insights-mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^3.0.2",
+    "nodemailer-plugin-inline-base64": "^2.0.0",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
